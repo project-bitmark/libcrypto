@@ -1,0 +1,22 @@
+{
+  "name": "libcrypto",
+  "version": "0.0.1",
+  "description": "libcrypto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/project-bitmark/libcrypto.git"
+  },
+  "keywords": [
+    "libcrypto"
+  ],
+  "author": "Melvin Carvalho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/project-bitmark/libcrypto/issues"
+  },
+  "homepage": "https://github.com/project-bitmark/libcrypto#readme"
+}
